@@ -1,0 +1,5 @@
+{
+  "enforce_docs_placement": true,
+  "expected_paths": ["docs/README.md", "docs/validation/widget-implementation-validation-report.md"],
+  "forbidden_paths": ["widget-implementation-validation-report.md"]
+}

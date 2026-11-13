@@ -1,0 +1,14 @@
+{
+  "sha256": {
+    "docs/validation/v0.3-validation-eval-results.json": "4edb12cd373cd7a3f8f9e5200c5adbc696f279a49c2422f320dfb2d9b930e9a2"
+  },
+  "expected_paths": [
+    "docs/README.md",
+    "docs/validation/v0.3-validation-implementation-report.md",
+    "docs/archive/v0.2-handoffs-old-task.md"
+  ],
+  "forbidden_paths": [
+    "docs/handoffs/old-task.md"
+  ],
+  "enforce_docs_placement": true
+}

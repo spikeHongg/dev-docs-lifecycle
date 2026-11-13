@@ -1,0 +1,8 @@
+{
+  "skills": [
+    "../dev-docs-lifecycle-prototype-v0.2/skills/dev-docs-lifecycle"
+  ],
+  "extensions": [
+    "../dev-docs-lifecycle-prototype-v0.2/integrations/pi/dev-docs-lifecycle.ts"
+  ]
+}

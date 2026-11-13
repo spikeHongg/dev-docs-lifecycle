@@ -1,0 +1,15 @@
+# Earlier local snapshot and original input archive; retained on disk.
+/dev-docs-lifecycle-prototype-v0.1/
+/dev-docs-lifecycle-prototype-v0.2.zip
+
+# Local runtime files. Keep the portable project registration and default mode.
+/.pi/*
+!/.pi/settings.json
+!/.pi/dev-docs-lifecycle.json
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.tmp/
+node_modules/
